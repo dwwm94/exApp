@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^.+$ /app_react/index.html [L]
